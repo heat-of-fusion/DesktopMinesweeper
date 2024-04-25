@@ -11,6 +11,10 @@ Developed by HeatOfFusion
 
 <hr>
 
+<img src = './src/desktopminesweeperv1.gif' width = 40% height = 40%>
+
+<hr>
+
 You can play this project now, but this project is still on development.
 
 I'm optimizing the GUI system and ETC.
